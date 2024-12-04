@@ -21,6 +21,7 @@ body {
   align-items: center;
   height: 100vh;
   flex-wrap: wrap;
+  flex-direction: column;
 }
 
 /* Header Styles */
